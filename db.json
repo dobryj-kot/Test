@@ -1,10 +1,10 @@
 {
-  "Animal:" [
+  "Animal:" {
   {"name": "Apple",
    "type": "Bear"},
   {"name": "Lemon",
    "type": "Rabbit"}
-],
+},
   "profile": { 
     "name": "dobryj-kot"
   }
