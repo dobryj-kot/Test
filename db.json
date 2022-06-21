@@ -1,5 +1,5 @@
 {
-  "products" = [{
+  "products": [{
   "name": "Pizza",
   "price": "10",
   "quantity": "7"
@@ -15,7 +15,7 @@
   "name": "Fraldas",
   "price": "6",
   "quantity": "2"
-}];
+}],
   "profile": { 
     "name": "dobryj-kot"
   }
